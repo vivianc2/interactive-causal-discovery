@@ -1,0 +1,3 @@
+# trainer — SkyRL integration for the RPG causal-discovery environment.
+# Out-of-tree adapter (no fork of skyrl/skyrl-gym needed): a BaseTextEnv wrapper over
+# RPGEnv, a dataset builder, and a training entrypoint.
